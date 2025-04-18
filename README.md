@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ManishSinghJadoun
+- 👋 Hi, I’m @ManishSinghJadoun. I am an IIT Kanpur graduate.
 - 👋  I’m interested in ...AI, DL, ML, Docker, Kubernetes, Fast API
                              Deep learning- CNN, ANN, RNN, Yolo models
                              LLM, Hugging Face,  pytorch
--                           
 -                        
 - 👀 I’m interested in ...single cell sequencing, GATK, genome sequencing(Biology stuff)
 - 🌱 I’m currently learning ... R and Python
